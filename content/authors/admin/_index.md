@@ -47,7 +47,7 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/ChemaRianxo
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=3-H_4c8AAAAJ
@@ -73,4 +73,4 @@ Thanks for your visit!
 
 My name is José Manuel Abuín Mosquera (Rianxo, 1982). I am a software developer, computer engineer and researcher. Nowadays I work as Scientific Software Developer at Mestrelab Research S.L. and Bruker Daltonics SPR.
 
-My main research interests are focused on the application of high performance computing and parallel programming to solve scientific problems, mainly in genomics and chemistry.
+My main research interests are focused on the application of High Performance Computing and parallel programming to solve scientific problems, mainly in genomics and chemistry.
