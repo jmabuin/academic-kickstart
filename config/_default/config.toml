@@ -5,7 +5,7 @@
 # Each configuration section is defined by a name in square brackets (e.g. `[outputs]`).
 
 # Title of your site
-title = "jmabuin personal web page"
+title = "Jose M. Abuin web page"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
@@ -13,7 +13,7 @@ baseurl = "https://jmabuin.github.io/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
-copyright = "`&copy;` `{year}` José M. Abuín"
+copyright = "&copy; {year} José M. Abuín"
 
 ############################
 ## Advanced options below ##
