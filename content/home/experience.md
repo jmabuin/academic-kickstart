@@ -93,8 +93,8 @@ date_format = "Jan 2006"
   company = "Galicia Supercomputing Centre (CESGA)"
   company_url = "https://www.cesga.es/"
   location = "Santiago de Compostela (Spain)"
-  date_start = "2013-02-01"
-  date_end = "2008-04-14"
+  date_start = "2008-04-14"
+  date_end = "2013-02-01"
   description = """
   * Linux servers administration (dom0 Xen servers and also virtual machines).
   * Development of web platforms based on Java and PHP.
