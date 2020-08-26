@@ -15,12 +15,12 @@
 
 [[main]]
   name = "Publications"
-  url = "#pages"
+  url = "#publications"
   weight = 30
 
 [[main]]
   name = "Topics"
-  url = "#tag_cloud"
+  url = "#tags"
   weight = 40
 
 [[main]]
