@@ -5,8 +5,10 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: about.avatar
+  - block: v1/about
     id: about
+    Params: 
+      author: admin
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
