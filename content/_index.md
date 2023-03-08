@@ -12,23 +12,24 @@ sections:
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
       text:
-  - block: features
-    content:
-      title: Skills
-      items:
-        - name: Linux
-          description: 100%
-          icon: linux
-          icon_pack: fab
-        - name: Python
-          description: 100%
-          icon: python
-          icon_pack: fab
-        - name: Photography
-          description: 10%
-          icon: camera-retro
-          icon_pack: fas
+  # - block: features
+  #   content:
+  #     title: Skills
+  #     items:
+  #       - name: Linux
+  #         description: 100%
+  #         icon: linux
+  #         icon_pack: fab
+  #       - name: Python
+  #         description: 100%
+  #         icon: python
+  #         icon_pack: fab
+  #       - name: Go
+  #         description: 75%
+  #         icon: python
+  #         icon_pack: fab
   - block: experience
+    id: experience
     content:
       title: Experience
       # Date format for experience
@@ -140,6 +141,7 @@ sections:
       columns: '2'
       view: card
   - block: collection
+    id: recent
     content:
       title: Recent Publications
       text: |-
